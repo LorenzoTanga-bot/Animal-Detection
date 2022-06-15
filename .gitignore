@@ -1,0 +1,8 @@
+./vscode/
+./__pychache__/
+./dataset/
+./history_training/
+./images_test_predict/
+./label_binarizer/
+./model/
+.DS_Store
